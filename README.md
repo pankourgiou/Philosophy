@@ -1,0 +1,1 @@
+This is a philosophical script...the program isn't all that difficult and on the issues folder you can see how we can run the program though philosophy isn't always a lighthearted idea. So it's the beginning of a rather difficult attempt to reach closer to the truth.
